@@ -1,0 +1,82 @@
+[
+  {
+    "province": "浙江省",
+    "city": "杭州市",
+    "zone": "余杭区",
+    "type": "ICBC",
+    "remake": "2017-2018年期间建成并网的分布式光伏",
+    "publicSubsidy": "0.37",
+    "provinceSubsidy": "0.1",
+    "citySubsidy": "0.1"
+  },
+  {
+    "province": "浙江省",
+    "city": "杭州市",
+    "zone": "余杭区",
+    "type": "DWE",
+    "remake": "对居民住宅单独建设的光伏发电项目",
+    "publicSubsidy": "0.37",
+    "provinceSubsidy": "0.1",
+    "citySubsidy": "0."
+  },
+  {
+    "province": "浙江省",
+    "city": "杭州市",
+    "zone": "萧山区",
+    "type": "DWE",
+    "remake": "对居民住宅单独建设的光伏发电项目",
+    "publicSubsidy": "0.37",
+    "provinceSubsidy": "0.1",
+    "citySubsidy": "0."
+  },
+  {
+    "province": "安徽省",
+    "city": "阜阳市",
+    "zone": "太和县",
+    "type": "ALL",
+    "remake": "对居民住宅单独建设的光伏发电项目",
+    "publicSubsidy": "0.37",
+    "provinceSubsidy": "0.2",
+    "citySubsidy": "0.1"
+  },
+  {
+    "province": "安徽省",
+    "city": "合肥市",
+    "zone": "蜀山区",
+    "type": "ALL",
+    "remake": "对居民住宅单独建设的光伏发电项目",
+    "publicSubsidy": "0.37",
+    "provinceSubsidy": "0.2",
+    "citySubsidy": "0.1"
+  },
+  {
+    "province": "安徽省",
+    "city": "合肥市",
+    "zone": "庐阳区",
+    "type": "ALL",
+    "remake": "对居民住宅单独建设的光伏发电项目",
+    "publicSubsidy": "0.37",
+    "provinceSubsidy": "0.2",
+    "citySubsidy": "0.1"
+  },
+  {
+    "province": "浙江省",
+    "city": "杭州市",
+    "zone": "西湖区",
+    "type": "ALL",
+    "remake": "2017-2018年期间建成并网的分布式光伏",
+    "publicSubsidy": "0.37",
+    "provinceSubsidy": "0.1",
+    "citySubsidy": "0.2"
+  },
+  {
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "zone": "海盐县",
+    "type": "ALL",
+    "remake": "对居民住宅单独建设的光伏发电项目",
+    "publicSubsidy": "0.37",
+    "provinceSubsidy": "0.2",
+    "citySubsidy": "0.1"
+  }
+]

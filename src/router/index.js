@@ -13,6 +13,7 @@ import PageTwo from '../views/page_two'
 import PageThree from '../views/page_three'
 import PageFour from '../views/page_four'
 import PageFive from '../views/page_five'
+import city from '../views/city'
 import Shop from '@/views/shop'
 import Item from '@/views/item'
 import Cart from '@/views/cart'
@@ -56,6 +57,9 @@ export default new Router({
 		{
 			path : '/PageFive',component: PageFive
 		},
+    {
+      path : '/city',component: city
+    },
     {
       path: '/shop',
       name: 'Shop',

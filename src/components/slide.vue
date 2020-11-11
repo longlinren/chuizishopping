@@ -9,7 +9,7 @@
 		</transition-group>
 		<div class="carousel-items">
 			<span v-for="(item,index) in slideList.length" :class="{'active':index === currentIndex}" @mouseover="change(index)">
-				
+
 			</span>
 		</div>
 	</div>
@@ -41,28 +41,28 @@
 			}
 		},
 		methods:{
-			// 开始
-			 go() {
-                this.timer = setInterval(() => {
-                    this.autoPlay()
-                }, 2000)
-            },
-            //停止
-            stop() {
-                clearInterval(this.timer)
-                this.timer = null
-            },
-            //改变
-            change(index) {
-                this.currentIndex = index
-            },
-            //自动
-            autoPlay() {
-                this.currentIndex++
-                if (this.currentIndex > this.slideList.length - 1) {
-                    this.currentIndex = 0
-                }
-            }
+      // 开始
+      go() {
+          this.timer = setInterval(() => {
+              this.autoPlay()
+          }, 2000)
+      },
+      //停止
+      stop() {
+          clearInterval(this.timer)
+          this.timer = null
+      },
+      //改变
+      change(index) {
+          this.currentIndex = index
+      },
+      //自动
+      autoPlay() {
+          this.currentIndex++
+          if (this.currentIndex > this.slideList.length - 1) {
+              this.currentIndex = 0
+          }
+      }
 		},
 		created() {
 			//异步处理
